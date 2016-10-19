@@ -1,0 +1,8 @@
+{
+	"name": "TNQSoft/Tut2",
+    "version" : "1.0.0", 
+    "require": {
+        "giggsey/libphonenumber-for-php": "^7.7"
+    },
+    "minimum-stability": "dev"
+}
